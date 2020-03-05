@@ -5,6 +5,11 @@ body { font-size: 10px; }
   src:url("https://Racheljin7.github.io/HTML-Markup/SimpleOTF/Simple-Light.otf");
 }
 
+@font-face{
+  font-family:"Simple-Bold";
+  src:url("https://Racheljin7.github.io/HTML-Markup/SimpleOTF/Simple-Light.otf");
+}
+
 .title {
   font-size: 1.4em;
   letter-spacing: 1.8px;
@@ -40,14 +45,17 @@ body { font-size: 10px; }
 }
 
 .p2{
+  font-family:"Simple-Light";
   font-size: 1.5em;
 }
 
 .head2{
+  font-family:"Simple-Light";
   font-size: 1.2em;
 }
 
 .p3{
+  font-family:"Simple-Light";
   font-size: 1.5em;
 }
 
@@ -56,6 +64,7 @@ body { font-size: 10px; }
 }
 
 .p4{
+  font-family:"Simple-Light";
   font-size: 1.5em;
 }
 
@@ -64,6 +73,7 @@ body { font-size: 10px; }
 }
 
 .p5{
+  font-family:"Simple-Light";
   font-size: 1.5em;
 }
 
@@ -72,6 +82,7 @@ body { font-size: 10px; }
 }
 
 .p6{
+  font-family:"Simple-Light";
   font-size: 1.5em;
 }
 
@@ -80,6 +91,7 @@ body { font-size: 10px; }
 }
 
 .p7{
+  font-family:"Simple-Light";
   font-size: 1.5em;
 }
 
@@ -89,6 +101,7 @@ body { font-size: 10px; }
 }
 
 .p8{
+  font-family:"Simple-Light";
   font-size: 1.5em;
 }
 
@@ -97,6 +110,7 @@ body { font-size: 10px; }
 }
 
 .p9{
+  font-family:"Simple-Light";
   font-size: 1.5em;
 }
 
@@ -105,6 +119,7 @@ body { font-size: 10px; }
 }
 
 .p10{
+  font-family:"Simple-Light";
   font-size: 1.5em;
 }
 
@@ -113,5 +128,6 @@ body { font-size: 10px; }
 }
 
 .p11{
+  font-family:"Simple-Light";
   font-size: 1.5em;
 }
