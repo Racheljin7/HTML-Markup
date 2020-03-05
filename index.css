@@ -6,12 +6,18 @@ body { font-size: 10px; }
 }
 
 @font-face{
+  font-family:"Simple-Oblique";
+  src:url("https://Racheljin7.github.io/HTML-Markup/SimpleOTF/Simple-Oblique.otf");
+}
+
+@font-face{
   font-family:"Simple-Bold";
-  src:url("https://Racheljin7.github.io/HTML-Markup/SimpleOTF/Simple-Light.otf");
+  src:url("https://Racheljin7.github.io/HTML-Markup/SimpleOTF/Simple-Bold.otf");
 }
 
 .title {
-  font-size: 1.4em;
+  font-family: "Simple-Bold";
+  font-size: 1.6em;
   letter-spacing: 1.8px;
   text-transform: uppercase;
   transform: rotate(270deg);
@@ -31,6 +37,7 @@ body { font-size: 10px; }
 
 
 .intro{
+  font-family: "Simple-Oblique";
   font-size:1.9em;
 }
 
@@ -41,6 +48,7 @@ body { font-size: 10px; }
 }
 
 .head1{
+  font-family: "Simple-Oblique";
   font-size: 1.2em;
 }
 
@@ -50,7 +58,7 @@ body { font-size: 10px; }
 }
 
 .head2{
-  font-family:"Simple-Light";
+font-family: "Simple-Oblique";
   font-size: 1.2em;
 }
 
@@ -60,6 +68,7 @@ body { font-size: 10px; }
 }
 
 .head3{
+  font-family: "Simple-Oblique";
   font-size: 1.2em;
 }
 
@@ -69,6 +78,7 @@ body { font-size: 10px; }
 }
 
 .head4{
+  font-family: "Simple-Oblique";
   font-size: 1.2em;
 }
 
@@ -78,6 +88,7 @@ body { font-size: 10px; }
 }
 
 .head5{
+  font-family: "Simple-Oblique";
   font-size: 1.2em;
 }
 
@@ -87,6 +98,7 @@ body { font-size: 10px; }
 }
 
 .head6{
+  font-family: "Simple-Oblique";
   font-size: 1.2em;
 }
 
@@ -97,6 +109,7 @@ body { font-size: 10px; }
 
 
 .head7{
+  font-family: "Simple-Oblique";
   font-size: 1.2em;
 }
 
@@ -106,6 +119,7 @@ body { font-size: 10px; }
 }
 
 .head8{
+  font-family: "Simple-Oblique";
   font-size: 1.2em;
 }
 
@@ -115,6 +129,7 @@ body { font-size: 10px; }
 }
 
 .head9{
+  font-family: "Simple-Oblique";
   font-size: 1.2em;
 }
 
@@ -124,6 +139,7 @@ body { font-size: 10px; }
 }
 
 .head10{
+  font-family: "Simple-Oblique";
   font-size: 1.2em;
 }
 
