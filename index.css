@@ -1,0 +1,110 @@
+body { font-size: 10px; }
+.title {
+  font-size: 1.4em;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+  transform: rotate(270deg);
+  position: absolute;
+  top: 45vh;
+  left:-15vh;
+}
+
+.frame{
+  position: absolute;
+  left: 43vh;
+  top:2vh;
+  width: 105vh;
+  overflow: scroll;
+  height: 95vh;
+}
+
+
+.intro{
+  font-size:1.8em;
+}
+
+
+.p1{
+  font-size: 1.5em;
+}
+
+.head1{
+  font-size: 1.2em;
+}
+
+.p2{
+  font-size: 1.5em;
+}
+
+.head2{
+  font-size: 1.2em;
+}
+
+.p3{
+  font-size: 1.5em;
+}
+
+.head3{
+  font-size: 1.2em;
+}
+
+.p4{
+  font-size: 1.5em;
+}
+
+.head4{
+  font-size: 1.2em;
+}
+
+.p5{
+  font-size: 1.5em;
+}
+
+.head5{
+  font-size: 1.2em;
+}
+
+.p6{
+  font-size: 1.5em;
+}
+
+.head6{
+  font-size: 1.2em;
+}
+
+.p7{
+  font-size: 1.5em;
+}
+
+
+.head7{
+  font-size: 1.2em;
+}
+
+.p8{
+  font-size: 1.5em;
+}
+
+.head8{
+  font-size: 1.2em;
+}
+
+.p9{
+  font-size: 1.5em;
+}
+
+.head9{
+  font-size: 1.2em;
+}
+
+.p10{
+  font-size: 1.5em;
+}
+
+.head10{
+  font-size: 1.2em;
+}
+
+.p11{
+  font-size: 1.5em;
+}
